@@ -1,1 +1,0 @@
-It's a folder containing the css files used for giving style to the webpage
